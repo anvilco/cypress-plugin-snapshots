@@ -1,7 +1,7 @@
 {
-  "name": "custom-cypress-plugin-snap",
+  "name": "custom-cypress-snapshot",
   "publishConfig": { 
-    "registry": "https://npm.pkg.github.com/"
+    "registry": "https://registry.npmjs.org/"
   },
   "version": "1.4.5",
   "description": "Cypress snapshot functionality for data",
