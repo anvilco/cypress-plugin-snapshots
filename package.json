@@ -1,9 +1,9 @@
 {
   "name": "custom-cypress-snapshot",
-  "publishConfig": { 
+  "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
-  "version": "1.4.5",
+  "version": "1.4.6",
   "description": "Cypress snapshot functionality for data",
   "homepage": "https://github.com/winggo/cypress-plugin-snapshots",
   "repository": {
@@ -47,7 +47,7 @@
     "diff2html": "^2.7.0",
     "fs-extra": "^7.0.1",
     "image-size": "^0.7.2",
-    "jimp": "^0.10.3",
+    "jimp": "^0.16.1",
     "js-base64": "^2.5.1",
     "lodash": "^4.17.13",
     "pixelmatch": "^4.0.2",
