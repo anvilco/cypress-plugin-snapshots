@@ -1,14 +1,14 @@
 {
-  "name": "custom-cypress-snapshot",
+  "name": "@anvilco/cypress-plugin-snapshots",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
-  "version": "1.4.7",
+  "version": "1.5.0",
   "description": "Cypress snapshot functionality for data",
-  "homepage": "https://github.com/winggo/cypress-plugin-snapshots",
+  "homepage": "https://github.com/anvilco/cypress-plugin-snapshots",
   "repository": {
     "type": "git",
-    "url": "https://github.com/winggo/cypress-plugin-snapshots.git"
+    "url": "https://github.com/anvilco/cypress-plugin-snapshots.git"
   },
   "types": "types/index.d.ts",
   "files": [
@@ -24,7 +24,7 @@
     "node": ">=8.2.1"
   },
   "bugs": {
-    "url": "https://github.com/winggo/cypress-plugin-snapshots/issues"
+    "url": "https://github.com/anvilco/cypress-plugin-snapshots/issues"
   },
   "keywords": [
     "cypress",
